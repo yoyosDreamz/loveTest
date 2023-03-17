@@ -22,7 +22,7 @@ body {
   width: 200px;
   border: solid transparent 1px;
   border-radius: 3%;
-  box-shadow: 0 0 100px 15px #48abe0;
+  /* box-shadow: 0 0 100px 15px #48abe0; */
 }
 #characters {
   display: flex;
